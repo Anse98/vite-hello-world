@@ -15,5 +15,6 @@ img {
 
 .jumbotron {
   padding: 10px;
+  text-align: center;
 }
 </style>
